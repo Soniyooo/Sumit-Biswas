@@ -1,0 +1,8 @@
+{
+  "name": "Sphere 3",
+  "description": "A modern social media experience powered by AI. Share thoughts, upload images, and let Gemini enhance your creativity.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
